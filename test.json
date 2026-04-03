@@ -1,3 +1,5 @@
 {
-  "name": "</textarea><img src=x onerror=alert('dom-xss')>"
+  "url": "https://petstore.swagger.io/v2/swagger.json",
+  "name": "]]></script><script>alert(“dom-xss”)</script>",
+  "description": ""
 }
